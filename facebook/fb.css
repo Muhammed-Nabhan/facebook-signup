@@ -1,0 +1,162 @@
+.header{
+    background:#3b5998;
+    width:100%;
+    height:85px;
+}
+body{
+    margin:0;
+    font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.logo{
+    width:50%;
+    padding-top:32px;
+    float:left;
+}
+.login{
+    width:50%;
+    float:left;
+    padding-top: 10px;;
+    
+}
+.logo-text{
+    color:#fff;
+    font-size:35px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:Helvetica Neue,Helvetica,Arial,sans-serif ;
+    margin-left: 170px;
+}
+.login-label
+{
+    color:#fff;
+    font-size: 14px;
+    text-decoration:none;
+}
+.logincontrols
+{
+    margin-left:115px;
+}
+.submit
+{
+background: #4267b2;
+color:#fff;
+height: 20px;
+border-color: #29487d;
+cursor:pointer;
+}
+.submit:hover
+{
+    background: #29487d;
+}
+.left
+{
+    width:50%;
+    margin-left: 100px;
+    float: left;
+    padding-top: 40px;
+}
+.right
+{
+    
+   height:100px;
+    width:42%;
+    float: left;
+    padding-top: 10px;
+    
+}
+.main
+{
+background: linear-gradient(white,#D3D8E8);
+width: 100%;
+height: 500px;
+}
+.image
+{
+    width: 400px;
+    
+}
+.para
+{
+    font-weight: 799  ;
+    color: #0b1f42;
+    
+}
+.acc
+{
+    
+}
+.p{
+    font-weight: 800;
+}
+.account
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.desc
+{
+    font-weight: 550;
+    
+}
+.signin
+{
+   
+    border-radius: 4px;
+    border-color: #8b8b8b;
+    height: 20px;
+    width: 225px;
+    font-size: medium;
+   
+}
+.spacing
+{
+    padding-top: 10px;
+    
+}
+.spacing2
+{
+    padding-top: 10px;
+}
+.signin2
+{
+   
+    border-radius: 4px;
+    border-color: #8b8b8b;
+    height: 20px;
+    width: 463px;
+    font-size: medium;
+   
+}
+.spacing3
+{
+    padding-top: 20px;
+}
+.rdio
+{
+    padding-top: 20px;
+}
+.birthday
+{
+    color: gray;
+    font-size: medium;
+    font-weight: bold;
+}
+.bday
+{
+border-color: gray;
+border-radius: 4px;
+}
+.sbmt{
+padding-top: 20px;
+color: #fff;
+
+}
+.s
+{
+    height: 40px;
+    width: 180px;
+    color: #fff;
+    background-color: #14bb38;
+    border-radius: 5%;
+    font-size: large;
+}
